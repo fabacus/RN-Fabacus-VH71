@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/7c5d458a805f2eb2418555bce9dfafaa74f0f782/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/7c5d458a805f2eb2418555bce9dfafaa74f0f782/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/7c5d458a805f2eb2418555bce9dfafaa74f0f782/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/7c5d458a805f2eb2418555bce9dfafaa74f0f782/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/juanjimenez/.android/build-cache/f25360b73930308bf72bebf12d5f5717e08d1851/output/res/anim/abc_popup_exit.xml"
+    }
+]

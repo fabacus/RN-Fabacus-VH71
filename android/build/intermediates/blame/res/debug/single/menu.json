@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/rn-fabacus-vh71/android/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/juanjimenez/fabacus/RN-fabacus-VH71/RNFabvacusVH71/node_modules/react-native-fabacus-vh71/android/src/main/res/menu/main.xml"
+    }
+]
